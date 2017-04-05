@@ -2,5 +2,6 @@
 ### Data Structures:
 ##### - HashTable
 ##### - Doubly Linked List
+##### - Binary Search Tree
 ### Sorting Algorithms:
 ##### - Quick Sort
